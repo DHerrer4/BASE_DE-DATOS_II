@@ -1,0 +1,6 @@
+#,id,nombre,telefono,email,direccion,activa,created_at,updated_at
+1,1,ASSA,507-300-1234,legal@assa.com.pa,,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+2,2,ANCON,507-300-2345,legal@ancon.com.pa,,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+3,3,CONANCE,507-300-3456,legal@conance.com.pa,,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+4,4,PARTICULAR,,,,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+5,5,INTEROCEANICA,507-300-5678,legal@interoceanica.com.pa,,1,2026-04-10 16:25:16,2026-04-10 16:25:16

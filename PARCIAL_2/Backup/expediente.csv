@@ -1,0 +1,8 @@
+#,id,numero,cliente_nombre,cliente_cedula,descripcion,estado,aseguradora_id,juzgado_id,abogado_id,licenciado_id,tipo_caso_id,fecha_inicio,fecha_cierre,created_at,updated_at
+1,1,EXP-001,ANTHONY TREJOS,,,en_curso,1,1,1,1,1,2019-01-07,,2026-04-10 16:25:16,2026-04-10 16:25:16
+2,2,EXP-002,LUIS MOLINA,,,pendiente,2,2,1,2,2,2019-01-07,,2026-04-10 16:25:16,2026-04-10 16:25:16
+3,3,EXP-003,KATHERINE KENT,,,en_curso,1,1,1,1,1,2019-01-07,,2026-04-10 16:25:16,2026-04-10 16:25:16
+4,4,EXP-004,MARTIN ALVARADO,,,pendiente,3,3,1,3,3,2019-01-07,,2026-04-10 16:25:16,2026-04-10 16:25:16
+5,5,EXP-005,JOEL ARAUZ RODRIGUEZ,,,cerrado,4,4,1,4,4,2018-06-01,,2026-04-10 16:25:16,2026-04-10 16:25:16
+6,6,EXP-006,MICHELLE VEGA,,,en_curso,5,5,1,5,5,2019-01-07,,2026-04-10 16:25:16,2026-04-10 16:25:16
+7,7,EXP-007,CANDICE HENRY,,,pendiente,2,6,1,2,2,2019-01-07,,2026-04-10 16:25:16,2026-04-10 16:25:16

@@ -1,0 +1,2 @@
+#,id,nombre_completo,username,password_hash,email,rol,activo,created_at,updated_at
+1,1,Juan Pérez,jperez,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,,admin,1,2026-04-10 16:25:16,2026-04-10 16:25:16

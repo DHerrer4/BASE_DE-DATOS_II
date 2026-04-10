@@ -1,0 +1,6 @@
+#,id,nombre_completo,cedula,telefono,email,especialidad,activo,created_at,updated_at
+1,1,Juan Pérez,8-123-456,507-6000-1111,jperez@legal.pa,Derecho Civil,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+2,2,María González,8-234-567,507-6000-2222,mgonzalez@legal.pa,Derecho Laboral,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+3,3,Carlos Mendoza,8-345-678,507-6000-3333,cmendoza@legal.pa,Derecho Penal,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+4,4,Ana Rodríguez,8-456-789,507-6000-4444,arodriguez@legal.pa,Derecho Familiar,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+5,5,Luis Castillo,8-567-890,507-6000-5555,lcastillo@legal.pa,Derecho Mercantil,1,2026-04-10 16:25:16,2026-04-10 16:25:16

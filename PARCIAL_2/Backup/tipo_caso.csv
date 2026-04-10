@@ -1,0 +1,6 @@
+#,id,nombre,descripcion,activo,created_at,updated_at
+1,1,Accidente de Tránsito,Casos relacionados con accidentes vehiculares,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+2,2,Daños y Perjuicios,Reclamaciones por daños materiales o personales,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+3,3,Responsabilidad Civil,Casos de responsabilidad civil contractual o extracontractual,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+4,4,Seguro de Vida,Reclamaciones relacionadas con pólizas de vida,1,2026-04-10 16:25:16,2026-04-10 16:25:16
+5,5,Incapacidad Laboral,Casos de incapacidad derivada de accidentes laborales,1,2026-04-10 16:25:16,2026-04-10 16:25:16
